@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/aws-bedrock-agent-query-platform-88993-89002/backend_aws_bedrock_rag"
+}
